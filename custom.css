@@ -1,0 +1,14 @@
+/* Custom Style Sheet */
+textarea{
+    height:100px;
+}
+
+#camera , #ping {
+    margin:10px;
+}
+#pills-grid , #pills-square{
+    margin:10px;
+}
+#scrollpg{
+    width:50%;
+}
